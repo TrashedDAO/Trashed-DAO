@@ -9,6 +9,6 @@
 <p>The structures and functions of the DAO also raise management issues and attitudes towards the Ecosystem of our environment.</p>
 <p>The open discussion repository lists these issues in order to encourage further research on DAO and governance.</p>
     <h1><a href="http://trashedbot.github.io">"Trashed"</a></h1>
-<p>2018 - 2020</p>
+<p>2018 - 2021</p>
  </body>
 </html>
